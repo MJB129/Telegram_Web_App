@@ -1,4 +1,19 @@
-.App {
+body {
+  background-color:rgb(3, 0, 185);
+  color: white;
+
+}
+
+.cards__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.heading {
+  text-align: center;
+}
+  .App {
   text-align: center;
 }
 
