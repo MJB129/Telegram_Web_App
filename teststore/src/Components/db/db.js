@@ -1,4 +1,4 @@
-import accessoriesImg from "../images/accessories.jpg   ";
+import accessoriesImg from "../images/accessories.jpg";
 import concentrates1Img from "../images/concentrates1.jpeg";
 import edibles1Img from "../images/edibles1.jpg";
 import flowertestpic1Img from "../images/flowertestpic1.jpg";
